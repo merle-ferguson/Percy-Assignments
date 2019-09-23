@@ -26,35 +26,27 @@ namespace Assignment1
       Console.ReadLine();
     }
 
-        /// <summary>
-        /// ________________________
-        /// </summary>
-        /// <param name="________________________">________________________</param>
-        /// <returns>________________________</returns>
-        public static bool checkPalindrome(string strXval)
+    /// <summary>
+    /// ________________________
+    /// </summary>
+    /// <param name="________________________">________________________</param>
+    /// <returns>________________________</returns>
+    public static bool checkPalindrome(string strXval)
+    {
+      int vx1 = strXval.Length;
+      int vx2 = vx1 - 1;
+      var vstr1 = strXval.ToUpper();
+      if (vstr1.Length == 1) return(true);
+      else
+      {
+        for (int vx3 = 0; vx3 < vx1 && vx2 >= 1;)
         {
-            int vx1 = strXval.Length;
-            int vx2 = vx1 - 1;
-            var vstr1 = strXval.ToUpper();
-            bool vstat0 = true;
-
-            if (vstr1.Length == 1)
-            { return (vstat0); }
-            else
-            {
-                for (int vx3 = 0; vx3 < vx1 && vx2 >= 1;)
-                {
-                    if (vstr1[vx3] != vstr1[vx2])
-
-                    {
-                        vstat0 = false;
-                        vx3 = vx1;
-                    }
-                    vx3++;
-                    vx2--;
-                }
-                return (vstat0);
-            }
+          if (vstr1[vx3] != vstr1[vx2])  return false;
+          vx3++;
+          vx2--;
         }
+        return (true);
+      }
+    }
   }
 }
