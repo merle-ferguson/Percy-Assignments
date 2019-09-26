@@ -8,10 +8,11 @@ namespace Assignment2
 {
   public class SuperCalculator
   {
-    // @TODO: This function should calculate the nth fibonacci recursively
+    // This function should calculates the nth fibonacci recursively
     public int fibonacci(int n)
     {
-      return 0;
+      if (n < 2) return n;
+      return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
     // @TODO: This function should calculate n! recursively

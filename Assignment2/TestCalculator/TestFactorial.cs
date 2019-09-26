@@ -16,11 +16,8 @@ namespace TestCalculator
     [TestMethod]
     public void testFact1()
     {
-      Assert.IsTrue(calculator.factorial(0) == 1);
-      Assert.IsTrue(calculator.factorial(1) == 1);
-      Assert.IsTrue(calculator.factorial(3) == 6);
-
-      // @TODO: Add more checks here
+      // @TODO: This should sufficiently test your factorial function
+      Assert.IsTrue(false);
     }
   }
 }

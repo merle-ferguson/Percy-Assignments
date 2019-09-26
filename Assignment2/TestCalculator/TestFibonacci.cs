@@ -18,8 +18,9 @@ namespace TestCalculator
       Assert.IsTrue(calculator.fibonacci(0) == 0);
       Assert.IsTrue(calculator.fibonacci(1) == 1);
       Assert.IsTrue(calculator.fibonacci(3) == 2);
-
-      // @TODO: Add more checks here
+      Assert.IsTrue(calculator.fibonacci(5) == 5);
+      Assert.IsTrue(calculator.fibonacci(6) == 8);
+      Assert.IsTrue(calculator.fibonacci(8) == 21);
     }
   }
 }
