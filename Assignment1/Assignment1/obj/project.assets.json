@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mferguson\\.nuget\\packages\\": {},
+    "C:\\Users\\Percy-Lap\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\mferguson\\Source\\Repos\\Assignment1\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\Percy-Lap\\Documents\\GitHub\\Percy-Assignments\\Assignment1\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "c:\\users\\mferguson\\Source\\Repos\\Assignment1\\Assignment1\\Assignment1.csproj",
-      "packagesPath": "C:\\Users\\mferguson\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\mferguson\\Source\\Repos\\Assignment1\\Assignment1\\obj\\",
+      "projectPath": "C:\\Users\\Percy-Lap\\Documents\\GitHub\\Percy-Assignments\\Assignment1\\Assignment1\\Assignment1.csproj",
+      "packagesPath": "C:\\Users\\Percy-Lap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Percy-Lap\\Documents\\GitHub\\Percy-Assignments\\Assignment1\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mferguson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Percy-Lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -688,8 +688,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\mferguson\\Desktop\\Nuget_Packages": {},
-        "http://nuget.hq.orbitlogic.com:81/nuget/ol-nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

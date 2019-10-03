@@ -9,3 +9,14 @@ c:\users\mferguson\Source\Repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\
 c:\users\mferguson\Source\Repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfo.cs
 c:\users\mferguson\Source\Repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.dll
 c:\users\mferguson\Source\Repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.pdb
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.deps.json
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.json
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.dev.json
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.dll
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.pdb
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.csprojAssemblyReference.cache
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfo.cs
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.dll
+C:\Users\Percy-Lap\Documents\GitHub\Percy-Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.pdb
